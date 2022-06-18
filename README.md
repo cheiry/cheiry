@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cheiry
-- 👀 I’m interested in java, android
-- 🌱 I’m currently learning kotlin and android
+- 👀 I’m interested in java
+- 🌱 I’m currently learning kotlin
